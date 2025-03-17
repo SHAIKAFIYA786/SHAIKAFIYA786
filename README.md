@@ -2,10 +2,8 @@ my no👋 Hi, I'm Shaik Afiya! 🚀
 💻 Full-Stack Developer | AI Enthusiast | Future Entrepreneur
 🔍 Looking for a job or internship in software development
 
-🚀 About Me
+🚀 About Me</br>
 Passionate about Full-Stack Development
-
-
 Love solving DSA problems & exploring AI technologies
 
 
