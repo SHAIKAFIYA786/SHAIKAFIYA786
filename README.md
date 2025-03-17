@@ -28,7 +28,7 @@ Interested in Freelancing & Entrepreneurship – Dreaming of starting my own com
 
 📫 Let's Connect!
 📌 GitHub: []
-📌 LinkedIn: [linkedin.com/in/shaik-afiya-70a673267]
+📌 LinkedIn: []
 📌 Portfolio: [Your Portfolio Link]
 📌 Email: [shaikafiya9676@gmail.com]
 
