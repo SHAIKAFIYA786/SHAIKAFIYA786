@@ -8,21 +8,7 @@
 ## 🚀 About Me
 - Passionate about **Full-Stack Development**  
 - Love solving **DSA problems** & exploring **AI technologies**  
-- Interested in **Freelancing & Entrepreneurship** – Dreaming of starting my own company one day  
-
----
-
-## 💼 Positions & Roles  
-<table>
-  <tr>
-    <td>👨‍💻 Full-Stack Developer</td>
-    <td>🚀 AI Enthusiast</td>
-  </tr>
-  <tr>
-    <td>📊 Data Science Learner</td>
-    <td>💡 Future Entrepreneur</td>
-  </tr>
-</table>
+- Interested in **Freelancing & Entrepreneurship** – Dreaming of starting my own company one day 
 
 ---
 
@@ -70,7 +56,7 @@
     <td><a href="https://github.com/your-github-username" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a></td>
-    <td><a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <td><a href="https://www.linkedin.com/in/shaik-afiya-70a673267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a></td>
   </tr>
