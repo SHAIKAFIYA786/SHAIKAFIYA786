@@ -4,8 +4,14 @@
 
 🚀 About Me
 Passionate about Full-Stack Development
+
+
 Love solving DSA problems & exploring AI technologies
+
+
 Interested in Freelancing & Entrepreneurship – Dreaming of starting my own company one day
+
+
 💡 Technical Skills
 🛠 Languages: Java, Python, HTML, CSS, JavaScript
 🌐 Frontend: React, Three.js, Animation Libraries
