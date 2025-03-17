@@ -1,4 +1,4 @@
-👋 Hi, I'm Shaik Afiya! 🚀
+my no👋 Hi, I'm Shaik Afiya! 🚀
 💻 Full-Stack Developer | AI Enthusiast | Future Entrepreneur
 🔍 Looking for a job or internship in software development
 
